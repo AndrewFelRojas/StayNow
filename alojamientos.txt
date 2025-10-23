@@ -1,0 +1,2 @@
+Tipo,Codigo,Nombre,Ubicacion,Precio,Extra1,Extra2,Extra3
+Hotel,234567,HotelUptc,Sogamoso,10000.0,4,true

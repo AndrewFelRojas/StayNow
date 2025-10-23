@@ -1,0 +1,2 @@
+IDReserva,IDCliente,CodigoAlojamiento,FechaEntrada,FechaSalida,Total
+123456,123456,234567,2025-10-31,2025-11-05,52600.0
